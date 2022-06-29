@@ -1,9 +1,17 @@
-/**
-* Template Name: MyResume - v2.2.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+/*--------------------------------------------------------------
+# Custom Code - Makenson Noel
+--------------------------------------------------------------*/
+
+iframe{
+  width: 100%;
+  border: 2px solid #ccc;
+}
+
+img {
+
+border: 2px solid #ccc;
+
+}
 
 /*--------------------------------------------------------------
 # General
